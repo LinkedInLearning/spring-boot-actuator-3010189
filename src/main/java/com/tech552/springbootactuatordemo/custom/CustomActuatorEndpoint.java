@@ -7,8 +7,8 @@ import org.springframework.stereotype.Component;
 import java.util.HashMap;
 import java.util.Map;
 
-@Endpoint(id = "custom")
 @Component
+@Endpoint(id = "custom")
 public class CustomActuatorEndpoint {
 
     @ReadOperation
