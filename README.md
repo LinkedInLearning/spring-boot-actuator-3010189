@@ -1,7 +1,10 @@
 # Advanced Spring: Spring Boot Actuator
-This is the repository for the LinkedIn Learning course `Advanced Spring: Spring Boot Actuator`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Advanced Spring: Spring Boot Actuator. The full course is available from [LinkedIn Learning][lil-course-url].
 
-_See the readme file in the main branch for updated instructions and information._
+![Advanced Spring: Spring Boot Actuator][lil-thumbnail-url] 
+
+Are you a Java developer with a need to monitor the performance of your applications? In this advanced course, award-winning technical instructor Mikaila Akeredolu gives you an overview of the dashboard that you build in this course using Spring Boot Actuator, Prometheus, and Grafana. Then he dives into specifics. Mikaila introduces you to monitoring and managing Spring Boot applications with Spring Boot Actuator. He explains endpoints, endpoint groups, and how to override the Actuator base path. Mikaila walks you through the process to create and secure endpoints, then shows you how to leverage Micrometer and Prometheus to store and query metrics from your applications. Mikaila finishes up with a detailed discussion of Grafana dashboards, which make it easier to visualize multiple metrics across multiple stacks on the same screen.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -27,8 +30,15 @@ To resolve this issue:
 3. [Course-specific instructions]
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Mikaila Akeredolu 
+                            
 
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/mikaila-akeredolu).
+
+[lil-course-url]: https://www.linkedin.com/learning/advanced-spring-spring-boot-actuator
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3010189/3010189-1643410165052-16x9.jpg
