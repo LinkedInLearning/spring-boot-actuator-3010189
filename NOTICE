@@ -11,6 +11,11 @@ https://github.com/spring-projects/spring-framework
 License: Apache 2.0
 http://www.apache.org/licenses/
 
+Maven
+https://github.com/apache/maven
+License: Apache 2.0
+http://www.apache.org/licenses/
+
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
 If so, such third party code may be subject to other license terms than as set 
